@@ -3,51 +3,61 @@
         {
             "title": "bad idea right?",
             "artist": "Olivia Rodrigo",
+            "youtube_embed": "Dj9qJsJTsjQ",
             "youtube_link": "https://youtu.be/Dj9qJsJTsjQ?feature=shared"
         },
         {
             "title": "On My Mama",
             "artist": "Victoria Monét",
+            "youtube_embed": "KdJ-Qwu3y4Y",
             "youtube_link": "https://youtu.be/KdJ-Qwu3y4Y?feature=shared"
         },
         {
             "title": "My House",
             "artist": "Beyoncé",
+            "youtube_embed": "hAsDiZn61Wo",
             "youtube_link": "https://youtu.be/hAsDiZn61Wo?feature=shared"
         },
         {
             "title": "Ella Baila Sola",
             "artist": "Peso Pluma and Eslabon Armado",
+            "youtube_embed": "lZiaYpD9ZrI",
             "youtube_link": "https://youtu.be/lZiaYpD9ZrI?feature=shared"
         },
         {
             "title": "Padam Padam",
             "artist": "Kylie Minogue",
+            "youtube_embed": "p6Cnazi_Fi0",
             "youtube_link": "https://youtu.be/p6Cnazi_Fi0?feature=shared"
         },
         {
             "title": "So Much (For) Stardust",
             "artist": "Fall Out Boy",
+            "youtube_embed": "bv1D0kFxKC4",
             "youtube_link": "https://youtu.be/bv1D0kFxKC4?feature=shared"
         },
         {
             "title": "Nearly Daffodils",
             "artist": "English Teacher",
+            "youtube_embed": "x6xKTRZm3vI",
             "youtube_link": "https://youtu.be/x6xKTRZm3vI?feature=shared"
         },
         {
             "title": "If You Were Mine",
             "artist": "Miranda Lambert and Leon Bridges",
+            "youtube_embed": "TUh8LV9Qi5k",
             "youtube_link": "https://youtu.be/TUh8LV9Qi5k?feature=shared"
         },
         {
             "title": "I Play My Bass Loud",
             "artist": "Gina Birch",
+            "youtube_embed": "w1UOTCWmPvU",
             "youtube_link": "https://youtu.be/w1UOTCWmPvU?feature=shared"
         },
         {
             "title": "(It Goes Like) Nanana",
             "artist": "Peggy Gou",
+            "youtube_embed": "sCz5y84dwuA",
             "youtube_link": "https://youtu.be/sCz5y84dwuA?feature=shared"
         }
     ]

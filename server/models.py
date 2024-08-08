@@ -9,3 +9,16 @@ class Song(db.Model, SerializerMixin):
     title = db.Column(db.String)
     artist = db.Column(db.String)
     youtube_link = db.Column(db.String)
+    youtube_embed = db.Column(db.String)
+
+    favorites = db.relationship('Favorites', back_populates='song')
+
+
+class Favorite(db.Model, SerializerMixin):
+    
+    __tablename__ = 'favorites_table'
+
+    id = db.Column(db.Integer, primary_key=True)
+    song_id = db.Column(db.Integer, db.ForeignKey('songs_table.id'))
+
+    song = db.relationship('Song', back_populates='favorites')
