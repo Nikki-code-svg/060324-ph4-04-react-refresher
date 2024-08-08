@@ -7,7 +7,7 @@ function Songs() {
 
     useEffect(() => {
         console.log("FETCHING SONGS")
-        fetch('http://localhost:5555/songssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss')
+        fetch('http://localhost:5555/songs')
         .then(res => res.json())
         .then(data => setSongs(data))
     }, [])
